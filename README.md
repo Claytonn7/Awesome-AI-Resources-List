@@ -50,6 +50,9 @@ Here, you will find a curated collection of free resources to help you learn var
 | - | [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) | - |
 | - | [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html) | - |
 
+### Interactive Book for Deep Learning
+
+[Dive into Deep Learning](https://d2l.ai/)
 ## Computer Vision
 
 | 🎥 YouTube Resources | 🎓 Online Courses                                                                                          | 📄 Articles |
